@@ -1,5 +1,5 @@
 # Keyboard t-shirt starter kit
-The Keyboard t-shirt is a starter kit to create to create a small program in web language (PHP/CSS/JS) to design t-shirts only with keyboard interaction during the workshop of November 28 at the HfG Karlsruhe.
+The Keyboard t-shirt is a starter kit to create a small program in web language (PHP/CSS/JS) to design t-shirts only with keyboard interaction during the workshop of November 28 at the HfG Karlsruhe.
 
 ## Installation
 
