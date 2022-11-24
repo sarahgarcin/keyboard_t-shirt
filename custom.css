@@ -1,0 +1,59 @@
+/* import font frome google fonts api */
+@import url('https://fonts.googleapis.com/css?family=Spectral&display=swap');
+
+
+body{
+	font-family: "Spectral", serif;
+	font-size: 16px;
+}
+
+/* define the color of the t-shirt */
+.teeshirt{
+	background: blue;
+}
+
+/* define the way the elements are positioned on the t-shirt */
+.medias-list li{
+	display: inline-block;
+}
+
+/* define the way the elements are positioned on the t-shirt back*/
+.back .medias-list li{
+	display: block;
+}
+
+/* define the image size */
+.medias-list img{
+	max-height:300px;
+}
+
+
+/* define the text parameters : size, color, alignement etc. */
+h1{
+	font-size: 2em;
+	color: #00FF27;
+	width: 200px;
+	text-transform: uppercase;
+	text-align: center; 
+}
+
+/* define the text size on the t-shirt back */
+.back h1{
+	width:300px;
+	margin: auto;
+}
+
+h2{
+	font-size: 2em;
+}
+
+h5{
+	font-size: 1em;
+	font-weight: normal;
+}
+
+h6{
+	font-size: 1em;
+	font-weight: normal;
+}
+

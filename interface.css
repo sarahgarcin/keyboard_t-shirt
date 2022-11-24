@@ -1,0 +1,55 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0; 
+	padding: 0; 
+	line-height: 1.2;
+	font-size: 12px;
+	background: #3F3F3F;
+}
+
+ul, figure{
+	margin:0; 
+	padding:0;
+}
+
+li{
+	list-style: none;
+}
+
+/* draw and position the t-shirt */
+.teeshirt{
+	margin: 50px auto;
+	clip-path: url(#clip);
+	text-align: center;
+	height: 100vh;
+	width: 600px;
+}
+
+/* settings for print (export) */
+@media print{
+	@page{
+		size: 700px 700px;
+	}
+
+	body{
+		background: transparent !important;
+	}
+
+	.teeshirt{
+		margin-top: 0;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
