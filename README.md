@@ -10,7 +10,7 @@ You need a local PHP server to run the program
 - Open the Terminal window 
 - Drag and Drop the starter kit folder on the Terminal Icon to open it in the Terminal
 - Type ```php -S localhost:8000``` then enter to run the server
-- You should see something like : ```[Wed Nov 23 09:37:58 2022] PHP 7.4.32 Development Server (http://localhost:8080) started``
+- You should see something like : ```[Wed Nov 23 09:37:58 2022] PHP 7.4.32 Development Server (http://localhost:8080) started```
 - Open a browser and type localhost:8000 in the url 
 
 #### On Windows
